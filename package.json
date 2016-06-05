@@ -1,0 +1,20 @@
+{
+  "name": "moviestub",
+  "version": "1.0.0",
+  "description": "Book movie tickets online",
+  "main":"index.js",
+  "scripts": {
+ 
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "repository": {
+    "type": "git",
+    "url": "msivarohith"
+  },
+  "author": "Rohith",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
